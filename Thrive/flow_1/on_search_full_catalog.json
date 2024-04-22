@@ -61,6 +61,14 @@
                 "phone": "5566776655",
                 "email": "ase9945@gmail.com"
               }
+            },
+            {
+              "id": "2",
+              "type": "Self-Pickup",
+              "contact": {
+                "phone": "5566776655",
+                "email": "ase9945@gmail.com"
+              }
             }
           ],
           "descriptor": {
