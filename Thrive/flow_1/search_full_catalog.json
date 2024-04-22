@@ -11,11 +11,14 @@
     "transaction_id": "dc5476e9-253f-455a-addb-e439f0af1ca2",
     "message_id": "ee07dd1c-1528-431f-a2ac-09cb79d8440d",
     "timestamp": "2024-04-21T06:03:38.604Z",
+<<<<<<< HEAD
 =======
     "transaction_id": "43688e50-8f8c-4856-aef6-911d0ca8246d",
     "message_id": "9d2c8ff6-8df0-42ef-a387-68b5d346d624",
     "timestamp": "2024-04-12T05:33:09.070Z",
 >>>>>>> 9a3d73d4 (Resolves merge conflict)
+=======
+>>>>>>> c3342ad6 (Resolves merge)
     "ttl": "PT30S"
   },
   "message": {
